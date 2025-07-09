@@ -8,4 +8,4 @@ A new Flutter project.
 
 ## Getting Started
 
-### -개발중 2025.07.09 시작
+### - 개발중 2025.07.09 시작
